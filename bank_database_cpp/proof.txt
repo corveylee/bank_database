@@ -1,0 +1,13 @@
+Script started on Tue 29 Apr 2025 09:25:15 PM HST
+]0;corvey@uhx02:~/sprics212/project2[?1034huhx02:/home/c/corvey/sprics212/project2% exit[1Pxitmake -f debug.makrelease.mak[7Pvi llist.cppmake -f release.mak
+g++ -ansi -pedantic-errors -Wall -c user_interface.cpp
+g++ -ansi -pedantic-errors -Wall -c llist.cpp
+g++ -o project user_interface.o llist.o
+]0;corvey@uhx02:~/sprics212/project2uhx02:/home/c/corvey/sprics212/project2% rm user_interface.o
+]0;corvey@uhx02:~/sprics212/project2uhx02:/home/c/corvey/sprics212/project2% rm user_interface.omake -f release.makexit[Kmake -f release.makexit[K[1Pxitmake -f debug.mak
+g++ -ansi -pedantic-errors -Wall -c -DDEBUG user_interface.cpp
+g++ -o project_debug user_interface.o llist.o
+]0;corvey@uhx02:~/sprics212/project2uhx02:/home/c/corvey/sprics212/project2% q[Kexit
+exit
+
+Script done on Tue 29 Apr 2025 09:25:45 PM HST

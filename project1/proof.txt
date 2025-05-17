@@ -1,9 +1,0 @@
-Script started on Wed 26 Mar 2025 07:39:22 PM HST
-]0;corvey@uhx02:~/sprics212/project[?1034huhx02:/home/c/corvey/sprics212/project% make
-gcc -ansi -pedantic-errors -Wall -c user_interface.c
-gcc -ansi -pedantic-errors -Wall -c database.c
-gcc -o project1 user_interface.o database.o
-]0;corvey@uhx02:~/sprics212/projectuhx02:/home/c/corvey/sprics212/project% exit
-exit
-
-Script done on Wed 26 Mar 2025 07:39:25 PM HST

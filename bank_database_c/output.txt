@@ -1,0 +1,92 @@
+Script started on Wed 26 Mar 2025 07:37:46 PM HST
+]0;corvey@uhx02:~/sprics212/project[?1034huhx02:/home/c/corvey/sprics212/project% ./project1
+
+Welcome to BankSystems EasyDB. This program allows you to modify and search records within
+the bank database. Please follow the prompts given below.
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: p
+There is currently no accounts in the database.
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: a
+Please input account number: 1
+Enter account name: Jonny A.
+Please enter address below. Type '\[Enter]' when you are finished.
+123445    Asd h St.\
+
+Record was successfully addded
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: f p
+Account Number: 1
+Name: Jonny A.
+Address: 12344 Ash St.
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: f
+Please input account number: 1
+
+Account Found:
+Account Number: 1
+Name: Jonny A.
+Address: 12344 Ash St.
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: d
+Please input account number: 1
+
+Account successfully deleted
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: q p
+There is currently no accounts in the database.
+
+Please type a menu option below. You may shorten the option name, but not add to the option.
+add: Adds a record to the database
+printall: Prints all records in the database
+find: Finds a record by account number and prints the infromation of the record
+delete: Delete a record from a database using account number
+quit: Quit the program
+
+Input menu option: q
+]0;corvey@uhx02:~/sprics212/projectuhx02:/home/c/corvey/sprics212/project% sc[K[Kscript [K[K[K[K[K[K[Kexit
+exit
+
+Script done on Wed 26 Mar 2025 07:38:28 PM HST
